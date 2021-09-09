@@ -1,4 +1,4 @@
-<img src = "https://tapachula.tecnm.mx/wp-content/uploads/2019/08/Logo_TECNM-1024x438.png" width = "300" height = "150" alt = "Logo tecnológico" align = "left" />
+<img src = "https://www.tecnm.mx/assets/files/main/img/pleca_tecnm.jpg" width = "300" height = "150" alt = "Logo tecnológico" align = "left" />
 
 <img src = "https://edadsynesi.com/Logo2Web.png" width = "150" height = "150" alt = "Logo ITNL" align = "right" />
 
